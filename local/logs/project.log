@@ -1,0 +1,53 @@
+2018-04-20T02:12:48.708Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-20T02:12:48.714Z - normal: checking language setting...
+2018-04-20T02:12:48.714Z - normal: Language: zh
+2018-04-20T02:12:50.433Z - success: protocol editor-framework registered
+2018-04-20T02:12:50.433Z - success: protocol app registered
+2018-04-20T02:12:50.434Z - success: protocol theme registered
+2018-04-20T02:12:50.434Z - success: protocol profile registered
+2018-04-20T02:12:50.434Z - success: protocol packages registered
+2018-04-20T02:12:50.434Z - success: protocol unpack registerred
+2018-04-20T02:12:50.434Z - success: protocol disable-commonjs registerred
+2018-04-20T02:12:53.431Z - normal: failed to connect login server due to request timeout
+2018-04-20T02:12:53.433Z - normal: Check project D:\cocos\start_project
+2018-04-20T02:12:53.436Z - normal: Initializing Cocos2d
+2018-04-20T02:12:53.943Z - normal: Initializing Asset Database
+2018-04-20T02:12:54.016Z - success: protocol uuid registerred
+2018-04-20T02:12:54.016Z - success: protocol db registerred
+2018-04-20T02:12:54.017Z - success: protocol thumbnail registerred
+2018-04-20T02:12:54.017Z - normal: Loading editor/builtin packages
+2018-04-20T02:12:54.055Z - success: anysdk loaded
+2018-04-20T02:12:54.285Z - success: assets loaded
+2018-04-20T02:12:54.288Z - success: builder loaded
+2018-04-20T02:12:54.294Z - success: hierarchy loaded
+2018-04-20T02:12:54.298Z - success: inspector loaded
+2018-04-20T02:12:54.300Z - success: keystore loaded
+2018-04-20T02:12:54.305Z - success: node-library loaded
+2018-04-20T02:12:54.312Z - success: package-asset loaded
+2018-04-20T02:12:54.316Z - success: preferences loaded
+2018-04-20T02:12:54.343Z - success: project-importer loaded
+2018-04-20T02:12:54.347Z - success: project-settings loaded
+2018-04-20T02:12:54.350Z - success: ui-kit loaded
+2018-04-20T02:12:54.353Z - success: ui-grid loaded
+2018-04-20T02:12:54.359Z - success: scene loaded
+2018-04-20T02:12:54.361Z - success: sprite-editor loaded
+2018-04-20T02:12:54.369Z - success: store loaded
+2018-04-20T02:12:54.376Z - success: timeline loaded
+2018-04-20T02:12:54.377Z - normal: Loading builtin packages
+2018-04-20T02:12:54.380Z - success: asset-db-debugger loaded
+2018-04-20T02:12:54.382Z - success: code-editor loaded
+2018-04-20T02:12:54.383Z - success: color-picker loaded
+2018-04-20T02:12:54.388Z - success: console loaded
+2018-04-20T02:12:54.391Z - success: package-manager loaded
+2018-04-20T02:12:54.408Z - success: sdkbox loaded
+2018-04-20T02:12:54.414Z - success: tester loaded
+2018-04-20T02:12:54.418Z - success: ui-kit-preview-extra loaded
+2018-04-20T02:12:54.421Z - success: ui-kit-preview loaded
+2018-04-20T02:12:54.425Z - success: ui-tree loaded
+2018-04-20T02:12:56.257Z - normal: Initializing project D:\cocos\start_project
+2018-04-20T02:12:56.264Z - normal: Loading packages
+2018-04-20T02:12:56.281Z - normal: Watching packages
+2018-04-20T02:12:56.300Z - normal: Run Application
+2018-04-20T02:12:56.948Z - success: preview server running at http://localhost:7456
+2018-04-20T02:13:04.639Z - normal: 1.5.1
+2018-04-20T04:42:40.689Z - info: shutdown preview server
